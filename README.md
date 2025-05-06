@@ -1,1 +1,2 @@
 # Jogo-minha-mente
+# eu quero fazer um jogo na unity que se chama (minha mente a cada anoite) esse jogo vai ser de terror com uma ambientação mais sombria, o jogo se passa em um labirinto, o player so vai ter uma lanterna como fonte de luz , a cada noite o labirinto fica maior ,serão 5 noites , a cada noite o mapa se expande aumenta a quantidade de jumpscare e mostros , o objetivo do jogo vc tem que achar uma carta nela vai ter um enigma vc vai ter que desvendar o enigma pra achar a senha de uma porta que da acesso ao o proximo nivel
